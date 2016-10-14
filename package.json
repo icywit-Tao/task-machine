@@ -1,15 +1,23 @@
 {
   "name": "task-machine",
   "version": "1.0.0",
-  "description": "task flow machine",
+  "description": "task-machine",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icywit-Tao/task-machine.git"
   },
   "keywords": [
     "generator",
     "promise"
   ],
   "author": "icy",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icywit-Tao/task-machine/issues"
+  },
+  "homepage": "https://github.com/icywit-Tao/task-machine#readme"
 }
